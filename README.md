@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e473rvrhso839nwfl0lsfdm7l22pdzusjobz7witdop&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Biresashis&style=flat-square&color=blue" alt=""/>
+</div>
 <h1 align="center">Hi there 👋, I'm Biresashis Das</h1>
 
 <h3 align="center">BCA Graduate Advancing expertise in Python Development, Cloud Computing (AWS), and DevOps</h3>
@@ -17,7 +23,7 @@
 <br>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biresashis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/khushibhadange](https://www.linkedin.com/in/biresashis-das-b13503229/)) <img src="https://komarev.com/ghpvc/?username=your-github-Biresashis&style=flat-square&color=blue" alt=""/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biresashis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/khushibhadange](https://www.linkedin.com/in/biresashis-das-b13503229/)) 
 
 <br>
 

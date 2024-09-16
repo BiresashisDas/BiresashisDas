@@ -17,7 +17,7 @@
 <br>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biresashis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/khushibhadange](https://www.linkedin.com/in/biresashis-das-b13503229/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biresashis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/khushibhadange](https://www.linkedin.com/in/biresashis-das-b13503229/)) <img src="https://komarev.com/ghpvc/?username=your-github-Biresashis&style=flat-square&color=blue" alt=""/>
 
 <br>
 
@@ -28,6 +28,6 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BiresashisDas&theme=radical" alt="BiresashisDas" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BiresashisDas&show_icons=true&locale=en&theme=radical" alt="BiresashisDas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BiresashisDas&theme=radical" alt="BiresashisDas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BiresashisDas&show_icons=true&locale=en&theme=radical" alt="BiresashisDas" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BiresashisDas&show_icons=true&locale=en&layout=compact&theme=radical" alt="BiresashisDas" /></p>

@@ -4,7 +4,11 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-Biresashis&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">Hi there 👋, I'm Biresashis Das</h1>
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=F7A223&width=570&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Biresashis+Das" alt="Typing SVG" /></a>
+</h1>
 
 <h3 align="center">BCA Graduate Advancing expertise in Python Development, Cloud Computing (AWS), and DevOps</h3>
 <br>
@@ -23,20 +27,19 @@
 <br>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biresashis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biresashis-das-b13503229/) 
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/biresashis) [<img alt="Linkedln" width="50px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/biresashis-das-b13503229/) 
+
 
 <br>
 
 # 💻 Tech Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql)](https://skillicons.dev) <img alt="numpy" width="50px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 
-<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-          
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,redhat,git,githubactions,gitlab)](https://skillicons.dev)
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,anaconda,github)](https://skillicons.dev)  <img alt="numpy" width="47px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" />  <img alt="numpy" width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+
 <br>
 
 #
